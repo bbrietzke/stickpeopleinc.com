@@ -1,0 +1,2 @@
+# stickpeopleinc.com
+Kids website
