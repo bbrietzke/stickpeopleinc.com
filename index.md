@@ -1,9 +1,13 @@
 ## Welcome to StickPeopleInc.com
 
-### Duck/Bunny
+### Duck/Bunny ( $12 )
 
 [![Duck/Bunny](imgs/tb_duck_bunny.png)](imgs/duck_bunny.png)
-[![Duck/Bunny](imgs/tb_bunny_duck.png)](imgs/bunny_duck.png)
+[![Bunny/Duck](imgs/tb_bunny_duck.png)](imgs/bunny_duck.png)
+
+### Seven Eggs( $5 )
+
+[![Seven Eggs](imgs/seven_eggs.png)](imgs/seven_eggs.pdf)
 
 ### Support or Contact
 
