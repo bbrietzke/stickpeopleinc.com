@@ -13,9 +13,9 @@
 
 [![Tale of the Hat](imgs/tb_taleofthehat.png)](pdfs/TaleOfTheHat.pdf)
 
-### Catman II ( $2 )
+### Catman XII ( $2 )
 
-[![Catman II](imgs/tb_catman_two.png)](pdfs/catman_two.pdf)
+[![Catman VIII](imgs/tb_catman_twelve.png)](pdfs/catman_twelve.pdf)
 
 ### Catman VIII ( $2 )
 
@@ -32,6 +32,10 @@
 ### Catman V ( $2 )
 
 [![Catman V](imgs/tb_catman_five.png)](pdfs/catman_five.pdf)
+
+### Catman II ( $2 )
+
+[![Catman II](imgs/tb_catman_two.png)](pdfs/catman_two.pdf)
 
 ### Old Catman ( $2 )
 
