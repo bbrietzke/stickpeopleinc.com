@@ -7,7 +7,11 @@
 
 ### Seven Eggs( $5 )
 
-[![Seven Eggs](imgs/seven_eggs.png)](imgs/seven_eggs.pdf)
+[![Seven Eggs](imgs/seven_eggs.png)](pdfs/seven_eggs.pdf)
+
+### Tale of the Hat( $5 )
+
+[![Tale of the Hat](imgs/tb_taleofthehat.png)](pdfs/TaleOfTheHat.pdf)
 
 ### Support or Contact
 
