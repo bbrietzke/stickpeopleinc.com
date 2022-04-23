@@ -3,6 +3,7 @@
 ### Duck/Bunny
 
 [![Duck/Bunny](imgs/tb_duck_bunny.png)](imgs/duck_bunny.png)
+[![Duck/Bunny](imgs/tb_bunny_duck.png)](imgs/bunny_duck.png)
 
 ### Support or Contact
 
