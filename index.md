@@ -25,6 +25,10 @@
 
 [![Catman VII](imgs/tb_catman_seven.png)](pdfs/catman_seven.pdf)
 
+### Catman VI ( $5 )
+
+[![Catman VI](imgs/tb_tb_catman_six.png)](pdfs/catman_six.pdf)
+
 ### Old Catman ( $5 )
 
 [![Old Catman](imgs/tb_old_catman.png)](pdfs/old_catman.pdf)
