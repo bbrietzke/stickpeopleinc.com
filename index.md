@@ -7,11 +7,19 @@
 
 ### Seven Eggs( $5 )
 
-[![Seven Eggs](imgs/seven_eggs.png)](pdfs/seven_eggs.pdf)
+[![Seven Eggs](imgs/tb_seven_eggs.png)](pdfs/seven_eggs.pdf)
 
 ### Tale of the Hat( $5 )
 
 [![Tale of the Hat](imgs/tb_taleofthehat.png)](pdfs/TaleOfTheHat.pdf)
+
+### Catman II ( $5 )
+
+[![Tale of the Hat](imgs/tb_catman_two.png)](pdfs/catman_two.pdf)
+
+### Catman II ( $5 )
+
+[![Tale of the Hat](imgs/tb_catman_eight.png)](pdfs/catman_eight.pdf)
 
 ### Support or Contact
 
