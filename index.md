@@ -1,5 +1,8 @@
 ## Welcome to StickPeopleInc.com
 
+### Charchu Sneak Peak! ( $1 )
+[![Charchu](imgs/charchu_sneak_peak.png)](pdfs/charchu_sneak_peak.pdf)
+
 ### Duck/Bunny ( $12 )
 
 [![Duck/Bunny](imgs/tb_duck_bunny.png)](imgs/duck_bunny.png)
