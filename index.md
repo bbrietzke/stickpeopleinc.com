@@ -1,5 +1,8 @@
 ## Welcome to StickPeopleInc.com
 
+### Charchu Side Comic! ( $1 )
+[![Charchu](imgs/charchu_side_comic.png)](pdfs/charchu_side_comic.pdf)
+
 ### Charchu Sneak Peak! ( $1 )
 [![Charchu](imgs/charchu_sneak_peak.png)](pdfs/charchu_sneak_peak.pdf)
 
